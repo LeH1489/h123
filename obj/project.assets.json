@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/leminhhai9209/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/leminhhai9209/Projects/LTWebST5_1/BigSchool_4/BigSchool_4.csproj",
+      "projectName": "BigSchool_4",
+      "projectPath": "/Users/leminhhai9209/Projects/LTWebST5_1/BigSchool_4/BigSchool_4.csproj",
+      "packagesPath": "/Users/leminhhai9209/.nuget/packages/",
+      "outputPath": "/Users/leminhhai9209/Projects/LTWebST5_1/BigSchool_4/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/leminhhai9209/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/Users/leminhhai9209/Downloads": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
